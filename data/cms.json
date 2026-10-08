@@ -1,0 +1,449 @@
+{
+  "site": {
+    "title": "Gifar Aulia Rahman - Product Development Engineer",
+    "description": "Gifar Aulia Rahman — Product Development Engineer | NPD & Packaging Specialist. 4+ years in automotive, electronics & F&B. CAD, APQP, PPAP, FMEA. Bekasi, Indonesia."
+  },
+  "hero": {
+    "badge": "Available for new projects",
+    "greeting": "Hi, I'm",
+    "name": "GIFAR AULIA",
+    "role": "Research New Product Development & Project Management",
+    "about": "4+ years in new product development, manufacturing engineering & process validation — automotive, electronics & F&B. Lead cross-functional projects from concept to mass production with CAD, APQP, PPAP, PFMEA & Control Plan.",
+    "shippedLabel": "Shipped",
+    "shippedValue": "15+ products to mass production",
+    "brands": ["Toyota", "Suzuki", "Honda"],
+    "linkedin": "https://www.linkedin.com/in/gifarauliarahman/",
+    "photo": "/gifarfoto.png",
+    "photoBadge": "Product Development Engineer",
+    "location": "Bekasi, Indonesia"
+  },
+  "competencies": {
+    "eyebrow": "Core Competencies",
+    "titleA": "From concept to mass production,",
+    "titleAccent": "validated & manufacturable",
+    "desc": "NPD, CAD, PPAP & process validation — packaging solutions for automotive, electronics & F&B that ship at scale.",
+    "items": [
+      {
+        "title": "New Product Development",
+        "desc": "NPD & Product Development Engineering — lead cross-functional projects from concept to mass production."
+      },
+      {
+        "title": "Prototype & Trial",
+        "desc": "Prototype Development, Production Trial & Process Validation for manufacturability & quality."
+      },
+      {
+        "title": "APQP · PPAP · PFMEA",
+        "desc": "APQP, PPAP, PFMEA & Control Plan — Approval Drawings, Work Instructions, Inspection Reports."
+      },
+      {
+        "title": "Root Cause & Lean",
+        "desc": "Root Cause Analysis (5 Why, Fishbone) & Continuous Improvement with Lean Manufacturing."
+      },
+      {
+        "title": "Technical Drawing 2D/3D",
+        "desc": "2D/3D CAD — SolidWorks, ZW3D, Geomagic, SketchUp, AutoCAD (Basic), CorelDraw."
+      },
+      {
+        "title": "Project Management",
+        "desc": "Cross-functional project management — timeline, lead time & delivery ownership."
+      },
+      {
+        "title": "Supplier & Customer",
+        "desc": "Supplier & Customer technical coordination — production & technical team alignment."
+      }
+    ]
+  },
+  "experience": {
+    "eyebrow": "Work Experience",
+    "titleA": "Where I've",
+    "titleAccent": "shipped",
+    "jobs": [
+      {
+        "role": "New Product Development Staff",
+        "company": "PT Dinar Makmur",
+        "location": "Karawang, Indonesia",
+        "period": "Sep 2021 — Present",
+        "logo": "/logos/1791296774549-logo.webp",
+        "summary": "Develop new products and protective paper pulp packaging from concept through production for automotive & electronics.",
+        "bullets": [
+          "Lead multiple NPD projects for paper pulp packaging — automotive & electronics applications",
+          "Analyze product & customer requirements, develop concepts, resolve manufacturing issues via root cause & corrective action",
+          "Manufacturing process improvement — quality, productivity & cost efficiency",
+          "2D/3D technical drawings & packaging design (CAD)",
+          "Coordinate with production & technical teams on manufacturing processes",
+          "End-to-end timeline, lead time & delivery management",
+          "PPAP docs: Approval Drawings, Control Plan, FMEA, Work Instructions, Inspection Reports",
+          "Prototype evaluation, production trials & process validation for approval & mass production readiness"
+        ],
+        "tags": ["NPD", "PPAP", "FMEA", "CAD", "Lean"],
+        "highlight": [
+          "15+ new products — concept through mass production",
+          "300K+ pcs/mo coffee trays — Fore, Kopi Kenangan, Janji Jiwa",
+          "120K+ units/mo pad corner tray — furniture",
+          "700+ sets/mo piano packaging — Kawai"
+        ],
+        "clientsLine": "Clients: Toyota Mfg, Suzuki, Mecoindo, Honda Packing, Kawai, JVCKenwood, Jaya Prakasa, AST, CBI, GS, Meiloon · F&B: Fore, Kopi Kenangan, Janji Jiwa",
+        "images": [
+          "/experience/1791297363725-ilovepdf_merged_1_page-0002.jpg",
+          "/experience/1791297448453-ilovepdf_merged_1_page-0007.jpg",
+          "/experience/1791297456782-ilovepdf_merged_1_page-0015.jpg",
+          "/experience/1791297472464-ilovepdf_merged_1_page-0001.jpg"
+        ]
+      },
+      {
+        "role": "Product Design Staff",
+        "company": "PT Bahagia Audio Video",
+        "location": "Bogor, Indonesia",
+        "period": "Nov 2019 — Aug 2020",
+        "logo": "/logos/pt-bahagia-audio-video.png",
+        "summary": "Designed and modified vehicle interiors — passenger cabin, audio, video & accessories for vans, SUVs & buses.",
+        "bullets": [
+          "Custom interior design solutions based on customer requirements across vehicle types"
+        ],
+        "tags": ["Interior Design", "Automotive", "Custom"]
+      }
+    ]
+  },
+  "clients": {
+    "eyebrow": "Trusted by teams at",
+    "note": "Logo otomatis dari internet (simpleicons) — ganti manual taruh file di public/logos/ untuk override jika perlu",
+    "items": [
+      {
+        "name": "Toyota Mfg",
+        "logo": "https://cdn.simpleicons.org/toyota/ffffff",
+        "isSimple": true
+      },
+      {
+        "name": "Suzuki",
+        "logo": "https://cdn.simpleicons.org/suzuki/ffffff",
+        "isSimple": true
+      },
+      {
+        "name": "Honda Packing",
+        "logo": "https://cdn.simpleicons.org/honda/ffffff",
+        "isSimple": true
+      },
+      {
+        "name": "Kawai Indonesia",
+        "logo": "https://cdn.simpleicons.org/kawai/ffffff",
+        "isSimple": true
+      },
+      {
+        "name": "JVCKenwood",
+        "logo": "https://cdn.simpleicons.org/jvc/ffffff",
+        "isSimple": true
+      },
+      {
+        "name": "GS Battery",
+        "logo": "https://cdn.simpleicons.org/gs/ffffff",
+        "isSimple": true
+      },
+      {
+        "name": "Meiloon"
+      },
+      {
+        "name": "Fore Coffee"
+      },
+      {
+        "name": "Kopi Kenangan"
+      },
+      {
+        "name": "Janji Jiwa"
+      },
+      {
+        "name": "Mecoindo"
+      },
+      {
+        "name": "AST Indonesia"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "value": 4,
+      "suffix": "+",
+      "label": "Years Experience"
+    },
+    {
+      "value": 15,
+      "suffix": "+",
+      "label": "Products to Mass Production"
+    },
+    {
+      "value": 300,
+      "suffix": "K+",
+      "label": "pcs/mo Coffee Tray (F&B)"
+    },
+    {
+      "value": 14,
+      "suffix": "+",
+      "label": "Industrial Clients"
+    }
+  ],
+  "portfolio": {
+    "eyebrow": "Portfolio",
+    "titleA": "Selected work that",
+    "titleAccent": "delivers",
+    "filters": [
+      "All",
+      "Automotive",
+      "F&B Packaging",
+      "Electronics",
+      "Furniture"
+    ],
+    "projects": [
+      {
+        "title": "Coffee Tray Packaging — 300K/mo",
+        "category": "F&B Packaging",
+        "year": "2024",
+        "description": "Fore, Kopi Kenangan, Janji Jiwa — high-volume pulp tray",
+        "color": "#2d1b0e",
+        "initial": "C",
+        "href": "#work"
+      },
+      {
+        "title": "Pad Corner Tray — 120K/mo",
+        "category": "Furniture",
+        "year": "2024",
+        "description": "Furniture protective packaging — mass production",
+        "color": "#1a2634",
+        "initial": "P",
+        "href": "#work"
+      },
+      {
+        "title": "Kawai Piano Packaging — 700 sets/mo",
+        "category": "Electronics",
+        "year": "2024",
+        "description": "Piano protective packaging — PT Kawai Indonesia",
+        "color": "#1b2838",
+        "initial": "K",
+        "href": "#work"
+      },
+      {
+        "title": "Automotive Pulp Tray — Toyota & Suzuki",
+        "category": "Automotive",
+        "year": "2023",
+        "description": "Paper pulp tray for Toyota Mfg & Suzuki",
+        "color": "#10151f",
+        "initial": "A",
+        "href": "#work"
+      },
+      {
+        "title": "Electronics Tray — JVCKenwood & GS",
+        "category": "Electronics",
+        "year": "2023",
+        "description": "Protective packaging for electronics — JVCKenwood, GS, Meiloon",
+        "color": "#16213e",
+        "initial": "E",
+        "href": "#work"
+      },
+      {
+        "title": "Redesign BCA Mobile",
+        "category": "UI/UX",
+        "year": "2020",
+        "description": "Mobile banking redesign — case study",
+        "color": "#1a1a2e",
+        "initial": "B",
+        "href": "/work/bca-mobile",
+        "image": "/project/BCA%20UI/Group%20393%201%201-min.png"
+      },
+      {
+        "title": "Vehicle Interior — Audio Video",
+        "category": "Automotive",
+        "year": "2020",
+        "description": "Van/SUV/bus cabin & accessories — Bahagia Audio Video",
+        "color": "#0a192f",
+        "initial": "V",
+        "href": "#work"
+      },
+      {
+        "title": "Wanara Puppet — Silver Medal",
+        "category": "Award",
+        "year": "2019",
+        "description": "International Young Inventors Award",
+        "color": "#2a0f1c",
+        "initial": "W",
+        "href": "#work"
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Process",
+    "title": "Concept to mass production — validated",
+    "desc": "APQP-driven workflow from requirement to PPAP approval, with prototype, trial & process validation at every gate.",
+    "steps": [
+      {
+        "title": "Requirement & Concept",
+        "items": [
+          "Customer requirement study",
+          "Product analysis",
+          "Concept development",
+          "Feasibility review"
+        ]
+      },
+      {
+        "title": "CAD & Design",
+        "items": [
+          "2D/3D technical drawing",
+          "Packaging design (CAD)",
+          "DFM & cost review",
+          "Approval Drawing"
+        ]
+      },
+      {
+        "title": "Prototype & Trial",
+        "items": [
+          "Prototype build",
+          "Production trial",
+          "Root cause analysis",
+          "Corrective action"
+        ]
+      },
+      {
+        "title": "Validation & PPAP",
+        "items": [
+          "Process validation",
+          "Control Plan & PFMEA",
+          "Work Instructions",
+          "Inspection Reports"
+        ]
+      },
+      {
+        "title": "Mass Production",
+        "items": [
+          "PPAP approval",
+          "Lead time & delivery mgmt",
+          "Continuous improvement",
+          "Lean Manufacturing"
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "eyebrow": "Skills",
+    "titleA": "Engineering toolkit for",
+    "titleAccent": "NPD & packaging",
+    "desc": "CAD, validation & quality — from drawing to PPAP.",
+    "years": "4+",
+    "yearsDesc": "Years in NPD — automotive, electronics & F&B. PT Dinar Makmur (2021–Present), PT Bahagia Audio Video (2019–2020).",
+    "checklist": [
+      "NPD & Product Development Engineering",
+      "APQP, PPAP, PFMEA, Control Plan",
+      "5 Why, Fishbone & Lean Manufacturing",
+      "Supplier & customer technical coordination"
+    ],
+    "tools": [
+      {
+        "name": "SolidWorks",
+        "level": 90
+      },
+      {
+        "name": "ZW3D",
+        "level": 85
+      },
+      {
+        "name": "AutoCAD",
+        "level": 80
+      },
+      {
+        "name": "CorelDraw",
+        "level": 88
+      },
+      {
+        "name": "SketchUp",
+        "level": 82
+      },
+      {
+        "name": "Geomagic",
+        "level": 78
+      },
+      {
+        "name": "APQP / PPAP",
+        "level": 90
+      },
+      {
+        "name": "PFMEA / Control Plan",
+        "level": 88
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Operations — Automotive Supplier",
+      "role": "PT Toyota / Suzuki supply chain",
+      "text": "Gifar delivered protective packaging from concept to PPAP on time. Prototype, trial & validation were thorough — zero issues at mass production.",
+      "avatarColor": "#fb4157"
+    },
+    {
+      "name": "Procurement — Electronics",
+      "role": "PT JVCKenwood / Kawai Indonesia",
+      "text": "CAD accuracy and process documentation were excellent. Control Plan & FMEA made handover to production seamless.",
+      "avatarColor": "#fde65c"
+    },
+    {
+      "name": "F&B Operations",
+      "role": "Fore Coffee & FMCG group",
+      "text": "High-volume coffee tray at 300K+ pcs/month — consistent quality, on-time delivery and cost-efficient pulp design.",
+      "avatarColor": "#50e3c2"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Berapa lama pengembangan produk sampai mass production?",
+      "answer": "Tergantung kompleksitas & volume. Konsep–prototype 1–3 minggu, lalu production trial, validasi & PPAP sebelum mass production. Estimasi detail diberikan setelah review requirement & feasibility."
+    },
+    {
+      "question": "Apakah mencakup PPAP dan dokumen validasi?",
+      "answer": "Ya. Approval Drawing, Control Plan, PFMEA, Work Instructions & Inspection Reports disiapkan untuk approval dan kesiapan mass production."
+    },
+    {
+      "question": "Bagaimana proses kerja & koordinasi?",
+      "answer": "End-to-end: analisis requirement, CAD 2D/3D, prototype, trial produksi, validasi proses, dan manajemen lead time/delivery. Koordinasi langsung dengan tim produksi, supplier & customer."
+    },
+    {
+      "question": "Software & standarisasi apa yang digunakan?",
+      "answer": "SolidWorks, ZW3D, Geomagic, AutoCAD (Basic), SketchUp untuk 3D, CorelDraw untuk 2D. Proses mengacu APQP, FMEA, Lean Manufacturing & FSC Paperpulp."
+    }
+  ],
+  "contact": {
+    "eyebrow": "Contact",
+    "titleA": "Need packaging that ships at scale?",
+    "titleAccent": "Let's build it",
+    "desc": "From concept to PPAP — tell me your product, volume & timeline. I'll reply within 24h with plan & feasibility.",
+    "email": "gifaraulia.uiux@gmail.com",
+    "phone": "0858 7611 8888",
+    "location": "Bekasi, Indonesia",
+    "categories": [
+      "Paper Pulp Packaging (Automotive/Electronics)",
+      "F&B Packaging (High Volume)",
+      "PPAP & Process Validation",
+      "CAD & Technical Drawing"
+    ]
+  },
+  "footer": {
+    "name": "Gifar Aulia Rahman",
+    "desc": "Product Development Engineer crafting manufacturable packaging from concept to mass production — validated, cost-effective, on time.",
+    "email": "gifaraulia.uiux@gmail.com",
+    "copyright": "© 2026 Gifar Aulia. All rights reserved.",
+    "columns": [
+      {
+        "title": "Expertise",
+        "links": [
+          "NPD & Packaging",
+          "CAD 2D/3D",
+          "PPAP & Validation",
+          "Lean Manufacturing",
+          "Root Cause Analysis"
+        ]
+      },
+      {
+        "title": "Industries",
+        "links": ["Automotive", "Electronics", "Food & Beverage", "Furniture"]
+      },
+      {
+        "title": "Resources",
+        "links": ["Portfolio", "Process", "Contact", "Privacy Policy"]
+      }
+    ]
+  }
+}
